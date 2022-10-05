@@ -1,7 +1,7 @@
 # Sega-Genesis
 
 ![SEGA](https://github.com/txuswashere/Sega-Genesis/raw/main/Genesis/2022SegaGenesisMini2.jpg "SEGA")
-* https://github.com/txuswashere/Sega-Genesis
+* https://github.com/txuswashere/Sega-MegaDrive
 
 ![SEGA](https://github.com/txuswashere/Sega-Genesis/raw/main/Genesis/2022SegaGenesisMini2_back.jpg "SEGA")
 2022 Sega Genesis Mini 2 
