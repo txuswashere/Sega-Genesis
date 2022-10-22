@@ -73,3 +73,10 @@ SEGA Mega Drive Mini 2
 ![SEGA](https://github.com/txuswashere/Sega-Genesis/raw/main/Genesis/58-Devi-Pii.jpg "SEGA")
 ![SEGA](https://github.com/txuswashere/Sega-Genesis/raw/main/Genesis/59-vs-puyo-puyo-SUN.jpg "SEGA")
 ![SEGA](https://github.com/txuswashere/Sega-Genesis/raw/main/Genesis/60-space-harrier2.jpg "SEGA")
+
+* https://github.com/txuswashere/Sega-Genesis
+* https://github.com/txuswashere/Sega-MegaDrive
+* https://github.com/txuswashere/Sega32X
+* https://github.com/txuswashere/Sega-32X
+* https://github.com/txuswashere/Genesis
+* https://github.com/txuswashere/MegaDrive
